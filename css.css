@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    background-color: red;
+    border: none;
+    color: #0103b4;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: blue;
+    display: inline-block;
+    font-size: 20px;
+}
+
+#wrongLetters {
+    border: 3px solid green;
+}
+
+#output {
+    font-size: 50px;
+}
